@@ -1,2 +1,2 @@
-# estudoDeGit
-Arquivo para fins de estudos
+# Estudo De Git
+Repositório para fins de estudos 
